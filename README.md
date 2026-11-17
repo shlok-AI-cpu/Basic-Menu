@@ -45,7 +45,7 @@ A beginner-friendly Python project that simulates a simple cafe ordering system.
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/shlok-AI-cpu/Basic-Menu
    ```
 
 2. Open the project folder:
